@@ -4,9 +4,8 @@ This is a simple Java program that demonstrates the use of Swing to create a bas
 
 The purpose of this software is to provide a comprehensive example of how to use key Java features such as variables, expressions, conditionals, loops, functions, and classes to create a functional program. The program also demonstrates how to use Swing to create a user-friendly graphical user interface (GUI) for a simple calculator, making it easier for users to interact with the program.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HR07C42h2u0))
 
 # Development Environment
 
